@@ -14,5 +14,5 @@ I'm a computer science student~~
 #### Top Repositories
 
 <a href="https://github.com/ycpin0624/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-orcin-zeta.vercel.app/api/pin/?username=ycpin0624&repo=Taiwan-Railway-Inquiry-Bot&theme=brief" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ycpin0624&repo=Taiwan-Railway-Inquiry-Bot&theme=brief" />
 </a>
