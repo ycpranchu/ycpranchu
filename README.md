@@ -38,7 +38,7 @@ Contact me
 
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ycpin0624&show_icons=true&include_all_commits=true&theme=tokyonight" /></a><a href="https://github.com/ycpin/github-readme-stats-sigma-five"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ycpin0624&layout=donut&theme=tokyonight" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ycpin0624&show_icons=true&include_all_commits=true&theme=tokyonight" /></a><a href="https://github.com/ycpin/github-readme-stats-sigma-five"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ycpin0624&layout=donut-vertical&theme=tokyonight" /></a>
 
 #### Top Repositories
 
