@@ -13,7 +13,8 @@ About Me
 Paper Published
 ---
 
-- [A Software-Defined Directional Q-Learning Grid-Based Routing Platform and Its Two-Hop Trajectory-Based Routing Algorithm for Vehicular Ad Hoc Networks](https://www.mdpi.com/1424-8220/22/21/8222)
+- A Software-Defined Directional Q-Learning Grid-Based Routing Platform and Its Two-Hop Trajectory-Based Routing Algorithm for Vehicular Ad Hoc Networks
+- Sensors, MDPI(https://www.mdpi.com/1424-8220/22/21/8222)
 
 Skills
 ---
@@ -29,7 +30,7 @@ Skills
 
 Contact me
 ---
-[![Medium](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://medium.com/@ycpin) 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://medium.com/@ycpin) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%BE%B0%E5%BD%AC-%E6%A5%8A-0a065221a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycpin0624@gmail.com)
 
