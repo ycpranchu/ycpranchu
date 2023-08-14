@@ -13,17 +13,19 @@ About Me
 Paper Published
 ---
 
-- A Software-Defined Directional Q-Learning Grid-Based Routing Platform and Its Two-Hop Trajectory-Based Routing Algorithm for Vehicular Ad Hoc Networks
-- Sensors, MDPI(https://www.mdpi.com/1424-8220/22/21/8222)
+- 📚 A Software-Defined Directional Q-Learning Grid-Based Routing Platform and Its Two-Hop Trajectory-Based Routing Algorithm for Vehicular Ad Hoc Networks, Sensors, Oct, 2022.
+
+- 📚 https://www.mdpi.com/1424-8220/22/21/8222
 
 Skills
 ---
 
 ### Language
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=cpp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Development
 
@@ -38,10 +40,10 @@ Contact me
 
 
 ---
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ycpin0624&show_icons=true&include_all_commits=true&theme=tokyonight" /></a><a href="https://github.com/ycpin/github-readme-stats-sigma-five"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ycpin0624&layout=donut-vertical&theme=tokyonight" /></a>
+<a href="https://github.com/ycpin/github-readme-stats-sigma-five"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycpin0624&layout=donut&theme=tokyonight&hide_border=true" /></a>    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ycpin0624&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /></a>
 
 #### Top Repositories
 
 <a href="https://github.com/ycpin0624/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ycpin0624&repo=Taiwan-Railway-Inquiry-Bot&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ycpin0624&repo=Taiwan-Railway-Inquiry-Bot&theme=tokyonight&hide_border=true" />
 </a>
