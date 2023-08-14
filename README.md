@@ -13,7 +13,7 @@ About Me
 Paper Published
 ---
 
-- 📚 [A Software-Defined Directional Q-Learning Grid-Based Routing Platform and Its Two-Hop Trajectory-Based Routing Algorithm for Vehicular Ad Hoc Networks](https://www.mdpi.com/1424-8220/22/21/8222)
+- [A Software-Defined Directional Q-Learning Grid-Based Routing Platform and Its Two-Hop Trajectory-Based Routing Algorithm for Vehicular Ad Hoc Networks](https://www.mdpi.com/1424-8220/22/21/8222)
 
 Skills
 ---
