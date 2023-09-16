@@ -3,7 +3,7 @@ Nice to meet you, my name is Chen-Pin Yang (ycpin).
 Website
 ---
 
-https://www.ycpranchu.com/
+https://www.ycpranchu.com
 
 About Me
 ---
