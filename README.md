@@ -9,7 +9,7 @@ About Me
 ---
 - 🍀 Graduate student at [Computer Science, National Yang Ming Chiao Tung University (NYCU CS)](https://www.cs.nycu.edu.tw/).
 
-- 🍀 Studying computer architecture, ray tracing, computer vision.
+- 🍀 Studying computer architecture, ray tracing, and computer vision.
 
 - 🍀 I love writing C/C++.
 
