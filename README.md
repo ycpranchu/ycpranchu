@@ -8,12 +8,10 @@ https://www.ycpranchu.com
 About Me
 ---
 - 🍀 Graduate student at [Computer Science, National Yang Ming Chiao Tung University (NYCU CS)](https://www.cs.nycu.edu.tw/).
-  
-- 🍀 Intern at [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/).
 
 - 🍀 Studying computer architecture, ray tracing, computer vision.
 
-- 🍀 I love writing Python, C++, php.
+- 🍀 I love writing C/C++.
 
 Paper Published
 ---
