@@ -7,7 +7,7 @@ https://www.ycpranchu.com
 
 About Me
 ---
-- 🍀 Graduate student at [Computer Science, National Yang Ming Chiao Tung University (NYCU CS)](https://www.cs.nycu.edu.tw/).
+- 🍀 Graduate student studying at [Computer Science, National Yang Ming Chiao Tung University (NYCU CS)](https://www.cs.nycu.edu.tw/).
 
 - 🍀 Studying computer architecture, ray tracing, and computer vision.
 
