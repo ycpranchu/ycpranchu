@@ -11,7 +11,7 @@ About Me
   
 - 🍀 Intern at [Industrial Technology Research Institute (ITRI)](https://www.itri.org.tw/).
 
-- 🍀 Studying computer vision, network simulator, deep learning.
+- 🍀 Studying computer architecture, ray tracing, computer vision.
 
 - 🍀 I love writing Python, C++, php.
 
