@@ -3,8 +3,8 @@ Nice to meet you, my name is Chen-Pin Yang (ycpin).
 Website
 ---
 
-[https://www.ycpranchu.com
-](https://medium.com/@ycpin)
+[https://www.ycpranchu.com](https://medium.com/@ycpin)
+
 About Me
 ---
 - 🍀 Graduate student studying at [Computer Science, National Yang Ming Chiao Tung University (NYCU CS)](https://www.cs.nycu.edu.tw/).
