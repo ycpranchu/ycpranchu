@@ -1,9 +1,9 @@
-Nice to meet you, my name is Chen-Pin Yang (ycpin).
+Nice to meet you, my name is 楊辰彬 (Chen-Pin Yang).
 
 Website
 ---
 
-[https://www.ycpranchu.com](https://medium.com/@ycpin)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://medium.com/@ycpin) 
 
 About Me
 ---
