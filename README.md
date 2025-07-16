@@ -41,13 +41,3 @@ Contact me
 
 ---
 <a href="https://github.com/ycpin/github-readme-stats-sigma-five"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ycpranchu&layout=donut&theme=tokyonight&hide_border=true" /></a>    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ycpranchu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /></a>
-
-#### Top Repositories
-
-<a href="https://github.com/ycpranchu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ycpranchu&repo=NYCU_Physical_Design_Automation_2023&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/ycpranchu/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ycpranchu&repo=Taiwan-Railway-Inquiry-Bot&theme=tokyonight&hide_border=true" />
-</a>
