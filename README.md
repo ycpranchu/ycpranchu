@@ -3,7 +3,7 @@ Nice to meet you, my name is 楊辰彬 (Chen-Pin Yang).
 About Me
 ---
 
-- 🍀 **2025~present:** Software Engineer at [Realtek](https://www.realtek.com/).
+- 🍀 **2025~present:** System Designer at [Realtek](https://www.realtek.com/).
 
 - 🍀 **2023~2025:** Graduate Student at [Computer Science, National Yang Ming Chiao Tung University (NYCU CS)](https://www.cs.nycu.edu.tw/).
 
